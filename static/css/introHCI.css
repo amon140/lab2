@@ -32,3 +32,22 @@ body {
      position: absolute;
      z-index: -1;	
 }
+
+
+
+/*Second line of text*/
+p {
+     font-variant: lower-case;
+
+}
+
+/* text links */
+.project p {
+     font-variant: small-caps;
+
+}
+
+/* Eye pic and its link */
+#project1 {
+     font-variant: small-caps;
+}
